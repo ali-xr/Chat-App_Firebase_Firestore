@@ -1,16 +1,23 @@
-# chat
+# Chat App
 
-A new Flutter project.
+Chat App Flutter project.
 
-## Getting Started
+# Project Photos
+<a href="https://ibb.co/dmZRYcR"><img src="https://i.ibb.co/J3Z9Jd9/Screenshot-20210902-220915.jpg" alt="Screenshot-20210902-220915" border="0"  width="120"></a>
+<a href="https://ibb.co/SXQQ72p"><img src="https://i.ibb.co/99ww3Jj/Screenshot-20210902-220922.jpg" alt="Screenshot-20210902-220922" border="0"  width="120"></a>
+<a href="https://ibb.co/0fSgVmd"><img src="https://i.ibb.co/THSVqYF/Screenshot-20210902-220943.jpg" alt="Screenshot-20210902-220943" border="0"  width="120"></a>
+ 
+# Click on the project gif to watch the video
+[<img src="https://i.ibb.co/hyNswc2/stream.gif" alt="stream" border="0" width="150"></a>](https://youtu.be/zupd1C_rsRQ)
+  
+  # Packages:
+  cupertino_icons: ^1.0.2 <br/>
+  firebase_core: ^1.4.0 <br/>
+  cloud_firestore: ^2.5.0 <br/>
+  firebase_storage: ^10.0.2 <br/>
+  firebase_auth: ^3.0.1 <br/>
+  google_sign_in: ^5.0.7 <br/>
+  flutter_offline: ^2.0.0 <br/>
 
-This project is a starting point for a Flutter application.
+# [Click here to download the app](https://github.com/AlijonXr/Chat-App/raw/main/app-armeabi-v7a-release.apk) 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
