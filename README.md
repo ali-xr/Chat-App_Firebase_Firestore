@@ -8,7 +8,7 @@ Chat App Flutter project.
 <a href="https://ibb.co/0fSgVmd"><img src="https://i.ibb.co/THSVqYF/Screenshot-20210902-220943.jpg" alt="Screenshot-20210902-220943" border="0"  width="120"></a>
  
 # Click on the project gif to watch the video
-[<img src="https://i.ibb.co/hyNswc2/stream.gif" alt="stream" border="0" width="150"></a>](https://youtu.be/zupd1C_rsRQ)
+[<img src="https://i.ibb.co/26z535k/ezgif-com-gif-maker.gif" alt="stream" border="0" width="150"></a>](https://youtu.be/zupd1C_rsRQ)
   
   # Packages:
   cupertino_icons: ^1.0.2 <br/>
